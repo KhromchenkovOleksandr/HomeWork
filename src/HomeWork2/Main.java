@@ -1,2 +1,4 @@
-package HomeWork2;public class Main {
+package HomeWork2;
+
+public class Main {
 }
